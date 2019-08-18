@@ -4,6 +4,8 @@
 
 This plugin allows you to use expresspay-gh payment platform with Nativescript. For more information visit https://expresspaygh.com/
 
+![Plugin demo](https://github.com/MohammedBashiru/nativescript-expresspay/blob/master/screenshots/demo.png?raw=true)
+
 ## Requirements
 
   - Add ```expresspay_browser_switch_activity.xml ``` to ```AppResources/Android/src/main/res/layout```
@@ -157,7 +159,6 @@ We love PRs!. If you want to contribute, but you are not sure where to start - l
 
 ## Get Help 
 Please, use [github issues](https://github.com/MohammedBashiru/nativescript-expresspay/issues) strictly for reporting bugs or requesting features. For general questions and support, check out [Stack Overflow](https://stackoverflow.com/questions/tagged/nativescript) or ask our experts in [NativeScript community Slack channel](http://developer.telerik.com/wp-login.php?action=slack-invitation).
-
 
     
 ## License
